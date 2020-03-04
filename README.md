@@ -14,10 +14,10 @@
 
 Gamemakin LLC 有一个公开的频道 http://discord.gamemak.in 的#linter通道，如果你想讨论任何有关风格指南和Linter插件的事项，可以访问这个网站
 
-## Linking To This Document
+## 如何链接到此文档
 
-Every section of this style guide is numbered for both easy reference and easy linking. You can link to any section directly by simply append a hash tag and the section number to the end of http://ue4.style
-For example, if you want to send someone to the first principle of this style guide you would append `#0.1`, resulting in http://ue4.style#0.1.
+该风格指南的每个部分都被编号了，以便于外部引用和链接。你可以通过在 http://ue4.style 后面增加哈希标签和章节数来链接风格指南的任何部分
+例如, 如果你想给别人发送该风格指南的第一个部分，你可以在后面加上 `#0.1`, 结果也就是这个地址 http://ue4.style#0.1 .
 
 ## Forks And Translations
 
