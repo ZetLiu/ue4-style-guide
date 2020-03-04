@@ -1,6 +1,6 @@
-# [Gamemakin](https://gamemak.in) 基于UE4风格的游戏开发指导() {
+# [Gamemakin](https://gamemak.in) UE4风格指南() {
 
-*更加合理的虚幻引擎使用指导*
+*更加贴近UE4的风格指南*
 
 灵感来源于 [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript).
 
@@ -8,11 +8,11 @@
 
 ## Unreal Engine 4 Linter 插件
 
-可以通过在市场[the Unreal Engine marketplace](https://www.unrealengine.com/marketplace/linter)购买Linter插件获取自动的方法来检查你的项目是否符合这个风格指导。插件的源码是终生免费的，但是为了能与UE4配合使用并且不用重新编译引擎源码，请使用商店的正式版本。
+可以通过在市场[the Unreal Engine marketplace](https://www.unrealengine.com/marketplace/linter)购买Linter插件获取自动的方法来检查你的项目是否符合这个风格指南。插件的源码是终生免费的，但是为了能与UE4配合使用并且不用重新编译引擎源码，请使用商店的正式版本。
 
 ## 参与该种风格指导的讨论
 
-Gamemakin LLC 有一个公开的频道 http://discord.gamemak.in ，还有 #linter 频道，如果你想讨论任何有关风格指引和Linter插件的事项，可以访问者两个网站
+Gamemakin LLC 有一个公开的频道 http://discord.gamemak.in 的#linter通道，如果你想讨论任何有关风格指南和Linter插件的事项，可以访问这个网站
 
 ## Linking To This Document
 
